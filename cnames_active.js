@@ -1589,6 +1589,7 @@ var cnames_active = {
   "n": "cyb.github.io/n",
   "nabin": "nabin6246.github.io",
   "naja": "jiripudil.github.io/Naja",
+  "naldorck": "naldorck01.github.io/",
   "namaste": "namaste-duniya.github.io/js",
   "name-my-colors": "domcoleman.github.io/name-my-colors",
   "namelessman": "namelessman.github.io",
